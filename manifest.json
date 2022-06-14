@@ -1,0 +1,15 @@
+{
+    "name": "Tic-Tac-Toe extension",
+    "manifest_version": 2,
+    "version": "0.0.1",
+    "description": "An extension that helps you to play tic tac toe while you are frustrated with other things in your life !",
+    "permissions": ["activeTab"],
+    "browser_action": {
+        "default_popup": "popup.html"
+    },
+    "icons": {
+        "16": "icon-16.png",
+        "48": "icon-48.png",
+        "128": "icon-128.png"
+      }
+}
